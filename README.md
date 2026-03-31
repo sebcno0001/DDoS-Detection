@@ -46,7 +46,7 @@ Projekt wykorzystuje następujące pliki:
 
 ## ⚙️ Technologie
 
-* Python 🐍
+* Python 
 * Jupyter Notebook
 * Pandas
 * NumPy
@@ -120,39 +120,18 @@ Projekt obejmuje następujące etapy:
 
 ### 4. Trenowanie modelu
 
-* klasyfikacja ruchu (np. Random Forest, Logistic Regression)
+* klasyfikacja ruchu (IF, LOF)
 
 ### 5. Ewaluacja modelu
 
 * Accuracy
 * Precision / Recall
-* Confusion Matrix
-
----
-
-## 📊 Wyniki
-
-Model umożliwia skuteczne wykrywanie ataków DDoS na podstawie:
-
-* wzorców ruchu sieciowego
-* nietypowej aktywności w logach
-
-*(Uzupełnij o konkretne wyniki, np. Accuracy: 98%)*
-
----
-
-## 🔮 Możliwe rozszerzenia
-
-* detekcja w czasie rzeczywistym
-* stworzenie API (FastAPI / Flask)
-* zastosowanie deep learning (np. LSTM)
-* integracja z systemami IDS/IPS
 
 ---
 
 ## 👨‍💻 Autor
 
-Sebastian
+Sebastian Cnotalski
 
 ---
 
