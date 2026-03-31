@@ -62,7 +62,7 @@ Projekt wykorzystuje następujące pliki:
 .
 ├── DDoS.ipynb
 ├── Apache.log
-├── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+├── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv - do pobrania z linku w notatniku
 ├── README.md
 └── data/ (opcjonalnie)
 ```
